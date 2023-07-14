@@ -1,2 +1,3 @@
 # Pacman
-CMPT310 Introduction to Artificial Intelligence Assignment - Adapted from the Berkeley Pac-Man Projects
+SFU CMPT310 Introduction to Artificial Intelligence Assignment <br />
+Adapted from the Berkeley Pac-Man Projects
