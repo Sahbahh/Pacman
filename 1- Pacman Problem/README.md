@@ -1,8 +1,8 @@
 Part 1 of SFU CMPT310 project
 ------------------------------------------
-My answers are in 
-• **search.py** → Where all of your search algorithms will reside.
-• **searchAgents.py** → Where all of your search-based agents will reside.
+My answers are in <br />
+• **search.py** → Where all of your search algorithms will reside. <br />
+• **searchAgents.py** → Where all of your search-based agents will reside. <br />
 
 
 **Introduction**
