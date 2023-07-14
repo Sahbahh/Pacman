@@ -1,4 +1,4 @@
-Part 1 of SFU CMPT310 project
+Part 3 of SFU CMPT310 project
 ------------------------------------------
 My answers are in <br />
 • **valueIterationAgents.py** → A value iteration agent for solving known MDPs.<br />
@@ -7,6 +7,6 @@ My answers are in <br />
 
 
 **Introduction:**<br />
-In this project, your Pacman agent will find paths through his maze world, both to reach
-a particular location and to collect food efficiently. You will build general search algorithms
-and apply them to Pacman scenarios.
+In this project, you will implement value iteration and Q-learning. You will test your
+agents first on Gridworld, then apply them to a simulated robot controller (Crawler)
+and Pacman.
