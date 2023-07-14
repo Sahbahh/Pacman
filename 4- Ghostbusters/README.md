@@ -1,9 +1,9 @@
 Part 4 of SFU CMPT310 project
 ------------------------------------------
 My answers are in <br />
-multiAgents.py**  all of your multi-agent search agents will reside. <br />
-• **bustersAgents.py** → Agents for playing the Ghostbusters variant of Pacman.
-• **inference.py** → de for tracking ghosts over time using their sounds.
+
+• **bustersAgents.py** → Agents for playing the Ghostbusters variant of Pacman.<br />
+• **inference.py** → code for tracking ghosts over time using their sounds.<br />
 
 **Introduction:**<br />
 Pacman spends his life running from ghosts, but things were not always so. Legend has it that many
